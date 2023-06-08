@@ -1,7 +1,7 @@
 ### Get Saldo
 **Base URL** 
  <p >
-  https://backend-dot-fishku-backend.et.r.appspot.com
+  ##########
 </p>
 
 - Endpoint
